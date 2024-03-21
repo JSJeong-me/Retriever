@@ -80,24 +80,24 @@ fI1bbwdZcJhkjnal0Dowb3kXs3ocxivoY/1hCh+hZuqHIQ==
 			</SpecifiedAddress>
 		</InvoicerParty>
 		<InvoiceeParty>
-			<ID>5013297178</ID>
+			<ID>1233297178</ID>
 			<TypeCode>수집하지 않음</TypeCode>
-			<NameText>세일즈로보</NameText>
+			<NameText>ABC로보</NameText>
 			<ClassificationCode>수집하지 않음</ClassificationCode>
 			<SpecifiedOrganization>
 				<BusinessTypeCode>01</BusinessTypeCode>
 			</SpecifiedOrganization>
 			<SpecifiedPerson>
-				<NameText>정준수</NameText>
+				<NameText>야옹님</NameText>
 			</SpecifiedPerson>
 			<PrimaryDefinedContact>
 				<DepartmentNameText></DepartmentNameText>
 				<PersonNameText></PersonNameText>
 				<TelephoneCommunication></TelephoneCommunication>
-				<URICommunication>jsjeong@shinkisa.co.kr</URICommunication>
+				<URICommunication>jjjeong@abc.co.kr</URICommunication>
 			</PrimaryDefinedContact>
 			<SpecifiedAddress>
-				<LineOneText>서울특별시 영등포구 여의대로 8 B-1802</LineOneText>
+				<LineOneText>서울특별시 영등포구 의사당로 10 ABC-802</LineOneText>
 			</SpecifiedAddress>
 		</InvoiceeParty>
 		<SpecifiedMonetarySummation>
